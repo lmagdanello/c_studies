@@ -41,6 +41,7 @@ int main()
 	const size_t ROW = 10;
 
 	generateMatrix(COLUMN, ROW, SUBSET);
+	return (0);
 
 }
 

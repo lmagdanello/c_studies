@@ -9,9 +9,9 @@ Also the subset of random numbers that will fill the matrix ([SUBSET]).
 E.g.:
 
 ```c
-	const size_t SUBSET = 1000; 
-	const size_t COLUMN = 10; 
-	const size_t ROW = 10;
+const size_t SUBSET = 1000; 
+const size_t COLUMN = 10; 
+const size_t ROW = 10;
 ```
 
 [10x10, random numbers between [0-1000]];
